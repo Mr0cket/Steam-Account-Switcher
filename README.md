@@ -7,5 +7,6 @@ Instructions:
 3. Change the 'main_Account' and 'alt_Account' values to reflect the usernames of your main and Alt steam accounts. save the changes.
 3. Run the script. 
 
-Note: The first time the script is run, you will need to enter your steam password. Subsequently, the process is automated.
-Note: Windows supported only.
+Notes: 
+The first time the script is run, you will need to enter your steam password. Subsequently, the process is automated.
+Windows supported only.
