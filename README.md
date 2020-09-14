@@ -8,6 +8,5 @@ Instructions:
 3. Run the script. 
 
 Notes: 
-
-The first time the script is run, you will need to enter your steam password. Subsequently, the process is automated.
-Windows supported only.
+- The first time the script is run, you will need to enter your steam password. afterwards, the process is automated.
+- Windows supported only.
