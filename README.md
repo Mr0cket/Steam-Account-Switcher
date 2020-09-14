@@ -1,11 +1,10 @@
 # Steam account switcher
-A windows Bat file to switch between steam accounts - No GUI.
-Automatically switch between 2 steam accounts without needing to retype username & password.
+A script to Aatomatically switch between 2 steam accounts. no password/typing required
 
-How to use: 
-...
+Instructions:
+1. Download the release.
+2. Open 'Steam Account Switcher.cmd' in a text editor (notepad is fine).
+3. Change the 'main_Account' and 'alt_Account' values to reflect the usernames of your main and Alt steam accounts. save the changes.
+3. Run the script. 
 
-To be introduced:
-0. automatic initialisation of files
-1. the most basic level of error correcting behaviour.
-2. type the username into the CLI (and remember it) rather than editing the bat file directly.
+Note: The first time the script is run, you will need to enter your steam password. Subsequently, the process is automated.
