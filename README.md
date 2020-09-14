@@ -1,5 +1,5 @@
 # Steam account switcher
-A script to Aatomatically switch between 2 steam accounts. no password/typing required
+A script to Automatically switch between 2 steam accounts. no password/typing required
 
 Instructions:
 1. Download the release.
