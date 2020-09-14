@@ -24,7 +24,6 @@ REG ADD HKCU\Software\Valve\Steam /v RememberPassword /t REG_DWORD /d 1 /F
 goto END
 
 :END
-IF ERRORLEVEL
 ECHO Account Switch successful, Opening steam...
 start steam:\\open\main
 timeout /T 5 /nobreak
