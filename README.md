@@ -10,3 +10,7 @@ Instructions:
 Notes: 
 - The first time the script is run, you will need to enter your steam password. afterwards, the process is automated.
 - Windows supported only.
+
+Roadmap:
+- support for switching between n number of steam accounts. This will require new logic, and user input.
+- 
