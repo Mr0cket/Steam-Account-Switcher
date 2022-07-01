@@ -12,5 +12,5 @@ Notes:
 - Windows supported only.
 
 Roadmap:
-- support for switching between n number of steam accounts. This will require new logic, and user input.
-- 
+- support for switching between any number of steam accounts.
+- Store account credentials automatically without need to edit .bat file
